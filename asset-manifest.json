@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Duboo31/team-project_facebug.git/static/css/main.507c1d55.css",
+    "main.js": "/Duboo31/team-project_facebug.git/static/js/main.67cf3f5d.js",
+    "index.html": "/Duboo31/team-project_facebug.git/index.html",
+    "main.507c1d55.css.map": "/Duboo31/team-project_facebug.git/static/css/main.507c1d55.css.map",
+    "main.67cf3f5d.js.map": "/Duboo31/team-project_facebug.git/static/js/main.67cf3f5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.507c1d55.css",
+    "static/js/main.67cf3f5d.js"
+  ]
+}
